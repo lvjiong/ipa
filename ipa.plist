@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://images.yyyue.xyz/esignlogo.png</string>
+					<string>https://yyyue.coding.net/p/logos/d/logos/git/raw/master/esignlogo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://images.yyyue.xyz/esignlogo.png</string>
+					<string>https://yyyue.coding.net/p/logos/d/logos/git/raw/master/esignlogo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -36,8 +36,6 @@
 				<string>software</string>
 				<key>title</key>
 				<string>App</string>
-				<key>subtitle</key>
-				<string>轻松签</string>
 			</dict>
 		</dict>
 	</array>
